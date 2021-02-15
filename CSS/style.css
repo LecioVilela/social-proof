@@ -1,0 +1,101 @@
+.comentarios {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+  }
+
+  .segundo {
+    margin-top: 25px;
+  }
+
+  .terceiro {
+    margin-top: 50px;
+  }
+
+  .ranking-content {
+    margin-left: 100px;
+  }
+
+  .ranking {
+    display: flex;
+    background-color: #F7F2F8;
+    width: 390px;
+    height: 45px;
+    margin-top: 27px;
+    padding: 10px 25px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .conteudo-cima {
+    display: flex;
+  }
+
+  .ranking-informacao {
+    font-size: 1rem;
+    color: #512250;
+    font-weight: 700;
+    padding-left: 30px;
+  }
+
+  .ranking-2 {
+    margin-left: 50px;
+  }
+
+  .ranking-3 {
+    margin-left: 100px;
+  }
+
+  .avatar {
+    border-radius: 50%;
+    width: 64px;
+    height: 64px;
+    padding-right: 40px;
+  }
+
+  .card {
+    height: 200px;
+    width: 400px;
+    border-radius: 10px;
+    padding: 48px;
+    background-color: #512250;
+    color: #fff;
+    font-size: 1rem;
+  }
+
+  .card-header {
+    display: flex;
+    align-items: center;
+    font-weight: 600; 
+  }
+
+  .info {
+    line-height: 30px;
+    font-weight: 400;
+    font-size: 1.125rem;
+  }
+
+  .status {
+    color: #B86D9E;
+  }
+
+  .detalhes {
+    color: #512250;
+    font-size: 2rem;
+    padding-right: 300px;
+    font-weight: 500;
+  }
+
+  .subhead {
+    font-weight: 300;
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+  }
+
+  .content {
+    padding: 100px;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+  }
